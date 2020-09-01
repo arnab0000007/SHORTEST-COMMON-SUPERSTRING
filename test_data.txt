@@ -1,0 +1,9 @@
+main(['abbabbbaba','babba','ababb','bab','babababa','abbba'])
+main(['aab','baa','bab','aba','aab','baa'])
+main(['mama','mami','dada','dadi'])
+main(['ABCD','BCDA ','BCDB','DAB'])
+
+greedy_scs(['abbabbbaba','babba','ababb','bab','babababa','abbba'],0)
+greedy_scs(['aab','baa','bab','aba','aab','baa'],0)
+greedy_scs(['mama','mami','dada','dadi'],0)
+greedy_scs(['ABCD','BCDA ','BCDB','DAB'],0)
